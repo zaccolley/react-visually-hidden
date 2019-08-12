@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should just render text 1`] = `
+<span
+  className="visuallyHidden"
+>
+  Hello this is text and should look like text
+</span>
+`;
+
+exports[`should just render the text from various JSX elements 1`] = `
+<span
+  className="visuallyHidden"
+>
+  Hello This is text and should look like text
+</span>
+`;
+
+exports[`should render null for nothing sent 1`] = `null`;
